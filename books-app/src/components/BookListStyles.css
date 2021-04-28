@@ -1,0 +1,35 @@
+.BookList_input {
+    padding: 0 2em;
+    color: red;
+}
+
+.align_right {
+    text-align: right;
+}
+
+.BookList_item {
+    padding: 0% 10em;
+}
+
+ul {
+    list-style-type : none;
+}
+
+li {
+    overflow: auto;
+}
+
+.BookList_detailed {
+    text-decoration: none; 
+    color: black;
+    text-align: left;
+}
+
+.Thumbnail_img {
+    float: left;
+    padding-right: 10px;
+}
+
+.BookList_description {
+    text-align: left;
+}
